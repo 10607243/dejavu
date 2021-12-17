@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+	background-color: #babdb6;
+	margin-right: 100px;
+}
+
+.h1negro {
+	background-color: black;
+	color: white;
+	text-align: right;
+}
+
+.grosso {
+	background-color: black;
+	height: 3px;
+	width: 70%;
+}
+
+.rato {
+	margin-left: 100px;
+}
