@@ -2,7 +2,8 @@
 
 body {
 	background-color: #babdb6;
-	margin-right: 100px;
+	margin-right: 15%;
+	margin-left: 15%;
 }
 
 .h1negro {
@@ -19,4 +20,48 @@ body {
 
 .rato {
 	margin-left: 100px;
+}
+
+.blanco {
+	background-color: white;
+	color: white;
+	text-align: right;
+	height: 3px;
+}
+
+.rojoblanco {
+	background-color: white;
+	color: red;
+}
+
+.fecha {
+	background-color: gray;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	margin-left: 30%;
+	margin-right: 20%;
+	letter-spacing: 5px;
+}
+
+.azul {
+	color: blue;
+}
+
+q {
+  border-bottom: red 1px dashed;
+  font-family: serif;
+  font-size: 130%;
+}
+
+section {
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top:30px;
+	margin-top: -10px;
+	
+}
+
+strong {
+  font-variant: small-caps;
 }
